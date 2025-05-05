@@ -2,8 +2,8 @@
 /**
  * Plugin Name: My Test Plugin
  * Description: A simple test plugin with a message.
- * Version: 1.0.1
- * Author: Your Name
+ * Version: 1.0.2
+ * Author: laraib
  */
 
 function my_test_plugin_admin_notice() {
