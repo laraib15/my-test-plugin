@@ -1,0 +1,7 @@
+{
+    "name": "laraib15/my-test-plugin",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "require": {}
+  }
+  
