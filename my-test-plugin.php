@@ -9,7 +9,8 @@
 function my_test_plugin_admin_notice() {
     ?>
     <div class="notice notice-success is-dismissible">
-        <p><?php _e('My Test Plugin is active and working!', 'my-test-plugin'); ?></p>
+    <p><?php _e('This is the updated version of My Test Plugin!', 'my-test-plugin'); ?></p>
+
     </div>
     <?php
 }
